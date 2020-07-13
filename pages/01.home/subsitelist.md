@@ -1,14 +1,16 @@
 ---
 title: Home
-visible: false
-show_sidebar: false
 hide_page_title: true
+show_sidebar: false
+hide_git_sync_repo_link: false
+visible: false
+card_width: '3'
+content:
+    order:
+        by: date
+        dir: asc
 ---
 
-## Welcome!
+## Oi!
 
-This is an **Open Course Hub** with **multiple courses** (i.e. subsites) within one Grav install.
-
-Each course can have its own header image, sidebar and footer - and these items can also be shared across all courses. Using the [Page Inject Plugin](https://github.com/getgrav/grav-plugin-page-inject), content can also be shared between one or more courses.
-
-Want to learn more? Visit the Open Course Hub documentation at [learn.hibbittsdesign.org](https://learn.hibbittsdesign.org/opencoursehub).
+Este é um espaço para compartilhar conteúdo educacional ligado à [rede Tropixel](https://rede.tropixel.org). Volte em breve, ou entre em contato com o [Felipe](https://rede.tropixel.org/u/efeefe/summary).
