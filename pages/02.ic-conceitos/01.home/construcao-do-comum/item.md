@@ -15,23 +15,38 @@ A inovação cidadã baseia-se amplamente em torno da construção do comum - aq
 
 ===
 
-### [Antecedentes: o MIT Media Lab](mit-media-lab)
+###     [O que é o comum](o-que-e)? 
 
-O MIT Media Lab, nos Estados Unidos, estabeleceu há algumas décadas as bases do que veio a ser chamado de laboratório de mídia. Vamos ver um pouco desta história, suas potencialidades e controvérsias.
+A palavra "comum" suscita muitas possíveis interpretações. Dentro do contexto dos laboratórios experimentais e dos projetos de inovação cidadã, o comum é compreendido em torno de alguns conceitos. Vamos ver quais são eles.
+   
+###   [Comuns, alternativa à razão neoliberal](alternativa-razao-neoliberal)
 
-### [Labs nas artes e na cultura - o Medialab Prado](medialab-prado)
+    Leia a entrevista de Michael Bauwens, da P2P Foundation, sobre os comuns como resistência política
+  
+ 
+  ### [Laboratórios: fazendo o comum na cidade](comum-na-cidade)
+  
+    Seriam os laboratórios experimentais, situados na cidade, veículos potentes para promover a construção do comum? Vamos ver algumas experiências que vêm tentando avançar neste sentido.
+  
+  ### Artigo: [O que são os “Laboratórios do Comum”](laboratorios-do-comum)
 
-Um dos espaços mais importantes no cenário internacional dos laboratórios de cultura e inovação é o Medialab Prado de Madri, na Espanha. Vamos entender um pouco mais sobre sua história e o que se desenvolve por lá.
+ Grupos de pesquisa científica atravessados pelo mundo, onde há troca e construção coletivas, sem separação entre “dentro” e “fora”, e onde o saber das experiências é valorizado. Uma experiência começa a surgir, em bairro de São Paulo. Leia o relato do professor Henrique Parra, da Unifesp.
 
-### [Medialab Prado - Modos de Fazer](modos-de-fazer)
+ ###   [A Lente do Comum](lente-do-comum)
+ 
+    Série de vídeos do Instituto Procomum com diversas perspectivas sobre o comum.
+ 
+### [Comum, comunicação, comunidades]
 
-Princípios do Medialab Prado.
+    Ao longo desta seção, conversamos sobre a ideia de comum e como ela pode trazer novas perspectivas para contextos sociopolíticos. Vamos agora tentar trazer a conversa um pouco mais para perto. Respondam a este tópico (clicando no botão Responder) comentando sobre como o comum está presente (ou ausente) no seu trabalho cotidiano, na sua vida profissional ou social, ou de forma mais ampla em Santo André e no Brasil.
+    Não estamos esperando uma resposta correta, mas sim ampliar a discussão a partir do pensamento sobre o comum que vimos exemplificado e refletido aqui.
+    
+### Artigo: [O conceito do comum: apontamentos introdutórios](conceito-do-comum)
 
-### [La mediación cultural en Medialab Prado](mediacion-cultural)
+    Opcional: para saber mais sobre conceitos ligados aos comuns, leia este artigo de Rodrigo Savazoni e Sergio Amadeu da Silveira.
 
-**Complementar:** Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os processos de mediação cultural. Se tiver dificuldade para entender o espanhol, use os recursos de tradução automática do youtube que já mencionamos no começo do curso.
+    RESUMO Com a publicação de Bem-estar comum, escrito por Michael Hardt e Antonio Negri (2016), de O comum: ensaio sobre a revolução no século XXI, de Christian Laval e Pierre Dardot (2017), e de Calibã e a bruxa, de Silvia Federici, o tema do comum (procomún em espanhol, commons em inglês) voltou a ganhar a atenção de pesquisadores das ciências humanas e sociais no Brasil. Neste artigo, retomamos um esforço realizado por Sergio Amadeu da Silveira em 2007, quando publicou o artigo “O conceito de commons na cibercultura”, e realizamos um percurso por autores que trabalham com o conceito de comum, contribuindo para descrever e localizar parte da bibliografia disponível sobre o tema, sendo grande parcela ainda indisponível em português. No artigo, tratamos da obra de autores como Garrett Hardin, Elinor Ostrom, David Bollier, Laval e Dardot, Hardt e Negri, Silvia Federici, Michel Bauwens, Silke Helfrich, Imre Simon, Miguel Said Vieira, Joan Subirats e César Rendueles, Yochai Benkler, Rafael Zanatta e Ugo Mattei, entre outros.
 
-### Conversa: Laboratórios na sua cidade
+ ###  [Mais referências](referencias)
 
-Com base nos conteúdos expostos nesta seção, vamos conversar sobre o que seria um laboratório experimental no contexto da cidade em que você vive, estuda ou trabalha. Pense nos fundamentos do Medialab Prado, na ideia de prototipagem e de mediação, e traga alguns pontos de conversa sobre potencialidades, experiências exitosas e obstáculos.
-
+Mais textos, publicações e vídeos sobre laboratórios experimentais.
