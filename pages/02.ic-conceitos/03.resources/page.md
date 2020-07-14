@@ -1,6 +1,6 @@
 ---
 title: 'Recursos'
-published: true
+published: false
 ---
 
 ## UX Design MOOCs & Courses
