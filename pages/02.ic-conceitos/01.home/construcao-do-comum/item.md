@@ -31,7 +31,7 @@ Seriam os laboratórios experimentais, situados na cidade, veículos potentes pa
 
 Grupos de pesquisa científica atravessados pelo mundo, onde há troca e construção coletivas, sem separação entre “dentro” e “fora”, e onde o saber das experiências é valorizado. Uma experiência começa a surgir, em bairro de São Paulo. Leia o relato do professor Henrique Parra, da Unifesp.
 
-###   [A Lente do Comum](lente-do-comum)
+###  Vídeos: [A Lente do Comum](lente-do-comum)
  
 Série de vídeos do Instituto Procomum com diversas perspectivas sobre o comum.
  
