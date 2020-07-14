@@ -15,7 +15,7 @@ A palavra "comum" suscita muitas possíveis interpretações. Dentro do contexto
 
 ===
 
-Commons - Elinor Ostrom
+### Commons - Elinor Ostrom
 
 Antes de falar do comum, vamos tentar localizar a origem de seu uso contemporâneo, a partir do termo em inglês commons. A tradução de commons para nosso idioma é um pouco complicada. Commons é a palavra utilizada para denominar, inicialmente, o pasto que era utilizado por comunidades rurais britânicas ao longo da idade média, antes do cercamento de propriedades.
 
