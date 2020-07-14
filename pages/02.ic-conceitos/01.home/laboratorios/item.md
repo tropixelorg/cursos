@@ -1,10 +1,8 @@
 ---
 title: 'Laboratórios'
 published: true
-date: '09-05-2018 00:00'
-header_image_alt_text: 'SFU Academic Quadrangle'
-header_image_credit: 'Julian Schüngel, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/medevac71/10610701655/'
+header_image_credit: 'Yeshi Kangrang, Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/PM_VwL2ypes'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
