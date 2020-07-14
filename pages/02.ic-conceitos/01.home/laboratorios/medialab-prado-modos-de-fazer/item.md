@@ -8,44 +8,50 @@ continue_link: true
 hide_git_sync_repo_link: false
 ---
 
-Um dos espaços mais importantes no cenário internacional dos laboratórios de cultura e inovação é o Medialab Prado de Madri, na Espanha. Vamos entender um pouco mais sobre sua história e o que se desenvolve por lá.
+Princípios do Medialab Prado.
 
 ===
 
-Já vimos anteriormente que o MIT Media Lab estabeleceu interessantes dinâmicas para o desenvolvimento de inovação, mas que existe controvérsia a respeito do contexto sociopolítico dele, e das implicações que daí derivam. Foi de fato o campo da cultura que veio desafiar a própria ideia do laboratório de mídia e expandi-la para perspectivas mais plurais e experimentais, que estão no centro do que nos interessa aqui neste curso.
+_Retirada de seção do website do Medialab Prado, feita em 10/11/2019. Tradução livre. original [aqui](https://www.medialab-prado.es/medialab/mas-informacion/que-es)._
 
-Desde meados dos anos noventa, organizações artísticas, culturais e ativistas de diversas partes do mundo emprestaram a ideia do laboratório para inserir um caráter mais experimental a instituições que então eram vistas de fora como meros espaços de disseminação cultural. Existia, naturalmente, uma esperteza nisso. As pessoas envolvidas concretamente com as ações tinham plena consciência de que a experimentação não era uma novidade no dia a dia de seu trabalho. Mas enxergavam nesse posicionamento a possibilidade de legitimar práticas por vezes complexas demais para a compreensão da sociedade como um todo (e especialmente, para a compreensão dos agentes responsáveis pela liberação de recursos). Assim, no começo da década passada o vocabulário do laboratório de mídias passou a se fazer presente em diversos espaços como o [Eyebeam](https://eyebeam.org/) em Nova Iorque, o [Hangar](https://hangar.org/) em Barcelona, [Waag](https://waag.org/) em Amsterdam, o [Laboral](http://laboralciudaddelacultura.com/) em Gijon, o [Tesla](http://www.tesla-berlin.de/) em Berlim, etc.
+**Comunidade e mediação**
 
-Havia também algum parentesco com os hacklabs que surgiam na cena de ocupações urbanas em diversos países. E naturalmente estava presente um diálogo com outras perspectivas sobre o significado de laboratório, por exemplo nas artes cênicas. Mas de modo geral, havia alguns elementos em comum nos laboratórios aplicados ao contexto da cultura: proporcionavam colaborações entre diversas disciplinas, aliavam técnicas contemporâneas de criação a investigação artística e/ou questões sociopolíticas, e ofereciam algum tipo de infraestrutura - física ou institucional - para grupos que até aquele ponto não estavam representadas no tecido urbano. Era possível pensar em laboratórios como interfaces entre as redes digitais e as redes das ruas:
+O Medialab Prado é um espaço **aberto ao público** que funciona graças ao **programa de mediação cultural**, que tem como objetivo orientar, acolher, relacionar aos usuários e projetos entre si, convertendo o espaço em um lugar hospitaleiro no qual a escuta e os cuidados ocupam um lugar central.
 
-> "esses núcleos não precisam se definir somente como "laboratórios de mídia". Não devem limitar-se à produção de "conteúdo". Tratam, na verdade, de criatividade aplicada, busca de soluções em múltiplas áreas de conhecimento. Um laboratório experimental pode, claro, produzir vídeos, programas de rádio, cobertura online de eventos, material gráfico, websites. Mas também desenvolve pesquisa em captação e armazenamento de energia alternativa, monitoramento ambiental com sensores, redes de aprendizado distribuído, instalações imersivas, projetos de robótica educacional. Pode trabalhar com mediação de conflitos, democracia experimental, política cultural, financiamento solidário de pequenos projetos. Elabora e implementa planos críticos para cidades digitais. Não existem limites para laboratórios que se proponham a atuar como interfaces entre o mundo cotidiano e a multiplicidade das redes."
+As atividades estão orientadas à **produção** e ao **debate**, e têm diferentes formatos e tempos com o objetivo de poder responder a diferentes interesses e possibilidades de participação.
 
-[Laboratórios experimentais: interface rede-rua](https://efeefe-arquivo.github.io/livro/lpd/labs-interface-rede-rua/)
+O espaço acolhe numerosos **grupos de trabalho** ou comunidades residentes em torno de temáticas muito diversas, que se reunem periodicamente e estão abertos à participação de qualquer pessoa interessada.
 
-Em seguida, veremos um dos espaços mais importantes neste contexto, o Medialab Prado, da Espanha. Entretanto, se quiser saber mais sobre o histórico dos Laboratórios de Mídia e seus desdobramentos, pode dar uma olhada neste post de blog.
+As pessoas da equipe de mediação cultural cuidam dos grupos de trabalho e promovem alguns deles dentro de seus projetos de pequisa.
 
-http://culturadigital.br/redelabs/2010/06/laboratorios-de-midia-referencias/
+A plataforma de **comunidade online** permite aos usuários do Medialab Prado documentar e acompanhar o andamento dos projetos.
 
-### O Medialab Prado
+### Prototipagem
 
-O [Medialab Prado](https://www.medialab-prado.es/medialab/mas-informacion/que-es) se apresenta hoje em dia como um laboratório cidadão, ligado à Secretaria de Cultura e Esportes da Prefeitura de Madri, na Espanha. Nos primeiros anos de atuação, ele localizava-se no subsolo da Plaza de las Letras, a poucos minutos a pé de instituições de peso como o Museo del Prado e o Museo Reina Sofia. Como resultado de sua intensa atuação - reunindo artistas, cientistas, designers, hackers e ativistas - o Medialab Prado ganhou cada vez mais visibilidade e passou a ocupar a Serrería Belga, uma antiga fábrica de móveis com três andares e uma renovada arquitetura.
+O Medialaba Prado, como espaço de produção, centra-se nas fases iniciais dos projetos, em sua prototipagem. Prototipar é levar as ideias à prática, é o momento no qual as ideias se materializam em uma primeira versão funcional. Prototipar com outras pessoas é gerar um contexto de intercâmbio de conhecimentos e habilidades acerca de um problema coletivo. Os participantes que se reunem para colaborar podem ter perfis muito diferentes, e esta mistura de saberes permite que se desenvolvam projetos complexos e muito diversos. Em alguns projetos o lado artístico aparece com mais intensidade, em outros predomina o lado tecnológico ou o científico; alguns têm um caráter educativo e outros mais ativista; mas todos eles se caracterizam por incluir e requerer distintos saberes em seu desenvolvimento. Esses processos de prototipagem criam comunidade.
 
-![](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/static_page/image/MEDIALAB%20PRADO.png?itok=iMsA-K_1)
+Os processos de prototipagem se canalizam através de **convocatórias abertas** para a participação em oficinas de prototipagem colaborativa. A metodologia dessas oficinas consiste na formação de grupos interdisciplinares de trabalho em torno de várias propostas selecionadas mediante convocatória aberta, compostos pela pessoa ou pessoas que os promovem inicialmente e todas as pessoas interessadas em colaborar com o assessoramento conceitual e técnico de uma equipe de especialistas convidados com perfis diversos.
 
-Ao longo de seus quase quinze anos de atividade, o Medialab Prado se notabilizou tanto pelos eventos internacionais na vanguarda da investigação sobre formas contemporâneas de cultura quanto pela investigação continuada sobre diversos temas. Organizando eventos e redes como o labtolab, ele contribuiu de maneira decisiva para a consolidação de uma atuação mais ampla para os laboratórios de mídia - não somente oficina para artistas desalojados, tampouco mera infraestrutura para empreendedores digitais, mas o próprio lugar da troca entre diversos campos. Temas como ciência de bairro, hackear a cidade, tecnologia e magia, bem comum, culturas de convivencialidade e muitos outros encontram no Medialab Prado um centro de desenvolvimento e irradiação.
+### Cultura livre - procomún (bem comum)
 
-### Interactivos?
+O Medialab Prado promove o desenvolvimento e uso de ferramentas de hardware e software livres e de código aberto, inseridas na filosofia do livre acesso ao conhecimento e do trabalho colaborativo.
 
-Uma das principais inovações desenvolvidas pelo Medialab Prado foram os eventos chamados "Interactivos?". Após algumas edições sediadas no Medialab, os Interactivos passaram a ser realizados em outras partes do mundo. No Brasil já aconteceram quatro edições. Eles baseiam-se em uma metodologia clara para produção rápida de projetos experimentais:
+Todos os conteúdos online são publicados com licenças abertas.
 
-* Define-se um tema para o evento, em diálogo com a instituição que o sedia e o contexto cultural
-* Abre-se uma chamada por projetos, e seleciona-se um número predefinido deles - usualmente entre seis e dez
-* Abre-se uma segunda convocatória, para selecionar colaboradores - pessoas interessadas em contribuir para a execução do projeto
-* Proponentes e colaboradores reúnem-se durante um período imersivo - entre cinco e dez dias para trabalhar nos projetos
-* Ao fim, cada projeto realiza alguma coisa - um protótipo, uma exposição, documentação ou o que fizer sentido
+Através de diferentes atividades se promove a investigação e o ensaio de modelos de arquivamento e documentação de projetos para que sejam acessíveis e replicáveis.
 
-Como veremos em outra seção, o modelo do Interactivos vem cada vez mais influenciando a maneira como se desenvolvem inovações de forma rápida e colaborativa.
+### Trabalho em rede
 
-Veja [aqui](https://silo.org.br/interactivos/) algumas edições do Interactivos organizadas no Brasil pela Silo:
+O Medialab Prado forma parte de redes de colaboração tanto em âmbito local como internacional, para o intercâmbio de conhecimentos e a replicabilidade - ida e volta - de modelos e formatos.
 
-https://silo.org.br/interactivos/
+No âmbito local as linhas principais de atuação são:
+
+*     Escalar e adaptar os formatos de trabalho com oficinas em diferentes bairros de Madri
+*     Desenvolver projetos transversais com outras áreas da Prefeitura de Madri
+*     Colaborar com outras instituições da cidade
+
+No âmbito internacional, as linhas principais de atuação são:
+
+*     Redes europeias através de projetos financiados pela União Europeia
+*     Redes com a América Latina através fundamentalmente do programa de Inovação Cidadã da SEGIB
+*     Redes de colaboração que estão sendo criadas com diversos países da África
