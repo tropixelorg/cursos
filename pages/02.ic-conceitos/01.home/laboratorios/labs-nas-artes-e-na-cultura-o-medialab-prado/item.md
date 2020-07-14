@@ -31,7 +31,7 @@ http://culturadigital.br/redelabs/2010/06/laboratorios-de-midia-referencias/
 
 O [Medialab Prado](https://www.medialab-prado.es/medialab/mas-informacion/que-es) se apresenta hoje em dia como um laboratório cidadão, ligado à Secretaria de Cultura e Esportes da Prefeitura de Madri, na Espanha. Nos primeiros anos de atuação, ele localizava-se no subsolo da Plaza de las Letras, a poucos minutos a pé de instituições de peso como o Museo del Prado e o Museo Reina Sofia. Como resultado de sua intensa atuação - reunindo artistas, cientistas, designers, hackers e ativistas - o Medialab Prado ganhou cada vez mais visibilidade e passou a ocupar a Serrería Belga, uma antiga fábrica de móveis com três andares e uma renovada arquitetura.
 
-https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/static_page/image/MEDIALAB%20PRADO.png?itok=iMsA-K_1
+![](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/static_page/image/MEDIALAB%20PRADO.png?itok=iMsA-K_1)
 
 Ao longo de seus quase quinze anos de atividade, o Medialab Prado se notabilizou tanto pelos eventos internacionais na vanguarda da investigação sobre formas contemporâneas de cultura quanto pela investigação continuada sobre diversos temas. Organizando eventos e redes como o labtolab, ele contribuiu de maneira decisiva para a consolidação de uma atuação mais ampla para os laboratórios de mídia - não somente oficina para artistas desalojados, tampouco mera infraestrutura para empreendedores digitais, mas o próprio lugar da troca entre diversos campos. Temas como ciência de bairro, hackear a cidade, tecnologia e magia, bem comum, culturas de convivencialidade e muitos outros encontram no Medialab Prado um centro de desenvolvimento e irradiação.
 
