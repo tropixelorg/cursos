@@ -3,15 +3,13 @@ title: 'Inovação cidadã'
 published: true
 hide_page_title: false
 show_sidebar: true
-header_image_alt_text: Inovação Cidadã
+header_image_alt_text: 'Inovação Cidadã'
 header_image_credit: 'mauro mora, Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/31-pOduwZGE'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 ---
-
-
 
 ===
 

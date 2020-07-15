@@ -1,7 +1,9 @@
 ---
-title: 'Laboratórios'
+title: Laboratórios
 published: true
-header_image_alt_text: 'Laboratorios'
+hide_page_title: false
+show_sidebar: true
+header_image_alt_text: Laboratorios
 header_image_credit: 'Yeshi Kangrang, Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/PM_VwL2ypes/'
 hide_from_post_list: false
