@@ -3,9 +3,9 @@ title: 'Construção do comum'
 published: true
 hide_page_title: false
 show_sidebar: true
-header_image_alt_text: Laboratorios
-header_image_credit: 'Yeshi Kangrang, Unsplash'
-header_image_creditlink: 'https://unsplash.com/photos/PM_VwL2ypes/'
+header_image_alt_text: Comum
+header_image_credit: 'Mario Purisic, Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/jG1z5o7NCq4'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
