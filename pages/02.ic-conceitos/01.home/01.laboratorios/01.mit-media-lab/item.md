@@ -11,7 +11,7 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 
-> O uso do termo _laboratório_ em contextos sociopolíticos e culturais tem um interessante histórico, com algumas vertentes distintas e naturalmente pontos controversos. São muitas as narrativas que confluem, mas uma das genealogias mais importantes gira em torno do MIT Media Lab. Vamos entender um pouco do que ele representa.
+O uso do termo _laboratório_ em contextos sociopolíticos e culturais tem um interessante histórico, com algumas vertentes distintas e naturalmente pontos controversos. São muitas as narrativas que confluem, mas uma das genealogias mais importantes gira em torno do MIT Media Lab. Vamos entender um pouco do que ele representa.
 
 ## MIT Media Lab
 

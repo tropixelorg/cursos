@@ -12,7 +12,7 @@ Princípios do Medialab Prado.
 
 ===
 
-_Retirada de seção do website do Medialab Prado, feita em 10/11/2019. Tradução livre. original [aqui](https://www.medialab-prado.es/medialab/mas-informacion/que-es)._
+_Retirada de seção do website do Medialab Prado, feita em 10/11/2019. Tradução livre. Original [aqui](https://www.medialab-prado.es/medialab/mas-informacion/que-es)._
 
 **Comunidade e mediação**
 
