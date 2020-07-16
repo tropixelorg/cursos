@@ -51,4 +51,4 @@ Como veremos em outra seção, o modelo do Interactivos vem cada vez mais influe
 
 Veja [aqui](https://silo.org.br/interactivos/) algumas edições do Interactivos organizadas no Brasil pela Silo:
 
-https://silo.org.br/interactivos/
+[https://silo.org.br/interactivos/](https://silo.org.br/interactivos/)
