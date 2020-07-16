@@ -8,7 +8,7 @@ continue_link: true
 hide_git_sync_repo_link: false
 ---
 
-Entrevista com [Michael Bauwens, da P2P Foundation](https://wiki.p2pfoundation.net/Michel_Bauwens), sobre os comuns como resistência política.
+Seriam os laboratórios experimentais, situados na cidade, veículos potentes para promover a construção do comum? Vamos ver algumas experiências que vêm tentando avançar neste sentido.
 
 ===
 

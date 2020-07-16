@@ -15,13 +15,13 @@ A inovação cidadã baseia-se amplamente em torno da construção do comum - aq
 
 ===
 
-### [O que é o comum](o-que-e)? 
+### [O que é o comum?](o-que-e)
 
 A palavra "comum" suscita muitas possíveis interpretações. Dentro do contexto dos laboratórios experimentais e dos projetos de inovação cidadã, o comum é compreendido em torno de alguns conceitos. Vamos ver quais são eles.
-   
+
 ### [Comuns, alternativa à razão neoliberal](alternativa-razao-neoliberal)
 
- Leia a entrevista de Michael Bauwens, da P2P Foundation, sobre os comuns como resistência política
+Leia a entrevista de Michael Bauwens, da P2P Foundation, sobre os comuns como resistência política
   
 ### [Laboratórios: fazendo o comum na cidade](comum-na-cidade)
   
