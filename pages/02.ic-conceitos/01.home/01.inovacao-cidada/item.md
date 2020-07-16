@@ -11,6 +11,8 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 
+A aplicação de abordagens experimentais e baseadas no comum para enfrentar questões sociais contemporâneas. 
+
 ===
 
 ### [Inovação e cidadania](inovacao-cidadania)

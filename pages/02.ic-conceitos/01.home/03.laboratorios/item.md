@@ -33,7 +33,6 @@ Princípios do Medialab Prado.
 
 **Complementar:** Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os processos de mediação cultural. Se tiver dificuldade para entender o espanhol, use os recursos de tradução automática do youtube que já mencionamos no começo do curso.
 
-### Conversa: Laboratórios na sua cidade
+### Conversa na rede: [Laboratórios na sua cidade](labs-sua-cidade)
 
-Com base nos conteúdos expostos nesta seção, vamos conversar sobre o que seria um laboratório experimental no contexto da cidade em que você vive, estuda ou trabalha. Pense nos fundamentos do Medialab Prado, na ideia de prototipagem e de mediação, e traga alguns pontos de conversa sobre potencialidades, experiências exitosas e obstáculos.
-
+Com base nos conteúdos expostos nesta seção, vamos conversar sobre o que seria um laboratório experimental no contexto da cidade em que você vive, estuda ou trabalha. Pense nos fundamentos do Medialab Prado, na ideia de prototipagem e de mediação, e traga alguns pontos de conversa sobre potencialidades, experiências bem-sucedidas e obstáculos.
