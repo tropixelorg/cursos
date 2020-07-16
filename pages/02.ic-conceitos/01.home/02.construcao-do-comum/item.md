@@ -37,7 +37,7 @@ Série de vídeos do Instituto Procomum com diversas perspectivas sobre o comum.
  
 ### [Comum, comunicação, comunidades]
 
-Ao longo desta seção, conversamos sobre a ideia de comum e como ela pode trazer novas perspectivas para contextos sociopolíticos. Vamos agora tentar trazer a conversa um pouco mais para perto. Respondam a este tópico (clicando no botão Responder) comentando sobre como o comum está presente (ou ausente) no seu trabalho cotidiano, na sua vida profissional ou social, ou de forma mais ampla em Santo André e no Brasil.
+Ao longo desta seção, conversamos sobre a ideia de comum e como ela pode trazer novas perspectivas para contextos sociopolíticos. Vamos agora tentar trazer a conversa um pouco mais para perto. Respondam a este tópico (clicando no botão Responder) comentando sobre como o comum está presente (ou ausente) no seu trabalho cotidiano, na sua vida profissional ou social, ou de forma mais ampla em sua cidade e no Brasil.
 Não estamos esperando uma resposta correta, mas sim ampliar a discussão a partir do pensamento sobre o comum que vimos exemplificado e refletido aqui.
     
 ### Artigo: [O conceito do comum: apontamentos introdutórios](conceito-do-comum)
