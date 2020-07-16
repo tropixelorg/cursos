@@ -7,7 +7,7 @@ published: true
 
 Laboratórios como espaços de articulação em torno da ideia de inovação cidadã. Como se estruturam, quais seus significados e implicações.
 
-## [Construção do comum](../home/comum)
+## [Construção do comum](../home/construcao-do-comum)
 
 A inovação cidadã baseia-se amplamente em torno da construção do comum - aquilo que é coletivo, vai além da soma de diversos particulares mas também não é propriamente público. Vamos nos aprofundar um pouco neste assunto fascinante e tentar entender quais inspirações ele pode trazer para nossos projetos.
 
