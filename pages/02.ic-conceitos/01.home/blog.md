@@ -25,4 +25,3 @@ feed:
 child_type: item
 ---
 
-Teste
