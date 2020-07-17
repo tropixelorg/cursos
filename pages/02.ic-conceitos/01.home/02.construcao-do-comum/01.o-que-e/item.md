@@ -3,6 +3,7 @@ title: 'O que é o comum?'
 published: true
 hide_page_title: false
 show_sidebar: true
+header_image: rita-vicari-m6RCv8K0rTM-unsplash.jpg
 header_image_alt_text: 'O que é o comum?'
 header_image_credit: 'Rita Vicari, Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/m6RCv8K0rTM'
@@ -17,9 +18,11 @@ A palavra "comum" suscita muitas possíveis interpretações. Dentro do contexto
 
 ### Commons - Elinor Ostrom
 
-Antes de falar do comum, vamos tentar localizar a origem de seu uso contemporâneo, a partir do termo em inglês commons. A tradução de commons para nosso idioma é um pouco complicada. Commons é a palavra utilizada para denominar, inicialmente, o pasto que era utilizado por comunidades rurais britânicas ao longo da idade média, antes do cercamento de propriedades.
-
 ![Elinor Ostrom](Ostrom.png)
+
+_Elinor Ostrom_
+
+Antes de falar do comum, vamos tentar localizar a origem de seu uso contemporâneo, a partir do termo em inglês commons. A tradução de commons para nosso idioma é um pouco complicada. Commons é a palavra utilizada para denominar, inicialmente, o pasto que era utilizado por comunidades rurais britânicas ao longo da idade média, antes do cercamento de propriedades.
 
 Como é amplamente conhecido, naquela época toda propriedade pertencia aos membros da nobreza, e mesmo os camponeses que eram autorizados a trabalhar a terra em troca de partes de sua produção nã1o tinham extensas áreas para criar animais. Os proprietários alocavam pedaços determinados de terra que poderiam ser usados pelos camponeses. Estes então os utilizavam como commons. Ou seja, em vez de parcelar a terra e cada família manter seus animais em um espaço individual, todos os animais pastavam livremente em toda parte. Existe uma palavra em português que denomina esse tipo de arranjo: _[rossio](https://pt.wiktionary.org/wiki/rossio)_. Mas como ela caiu em desuso, não faz muito sentido trazê-la a tona para nossos propósitos por aqui.
 
