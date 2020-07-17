@@ -1,7 +1,6 @@
 ---
 title: 'Laboratórios: fazendo o comum na cidade'
 date: '21:04 14-07-2020'
-published: false
 hide_page_title: false
 show_sidebar: true
 hide_from_post_list: false
