@@ -3,12 +3,12 @@ title: 'Antecedentes - o MIT Media Lab'
 published: true
 hide_page_title: false
 show_sidebar: true
+hide_git_sync_repo_link: false
 header_image_alt_text: 'MIT Media Lab'
 header_image_credit: 'Catherine D Ignazio, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/50628274@N00/15467413382/'
 hide_from_post_list: false
 continue_link: false
-hide_git_sync_repo_link: true
 ---
 
 O uso do termo _laboratório_ em contextos sociopolíticos e culturais tem um interessante histórico, com algumas vertentes distintas e naturalmente pontos controversos. São muitas as narrativas que confluem, mas uma das genealogias mais importantes gira em torno do MIT Media Lab. Vamos entender um pouco do que ele representa.
