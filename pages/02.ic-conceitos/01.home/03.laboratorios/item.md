@@ -31,11 +31,15 @@ O MIT Media Lab, nos Estados Unidos, estabeleceu há algumas décadas as bases d
 
 [>> Acesse](mit-media-lab)
 
+---
+
 ### [Labs nas artes e na cultura - o Medialab Prado](medialab-prado)
 
 Um dos espaços mais importantes no cenário internacional dos laboratórios de cultura e inovação é o Medialab Prado, em Madri (Espanha). Vamos entender um pouco mais sobre sua história e o que se desenvolve por lá.
 
 [>> Acesse](medialab-prado)
+
+---
 
 ### [Medialab Prado - Modos de Fazer](modos-de-fazer)
 
@@ -43,11 +47,15 @@ Princípios do Medialab Prado.
 
 [>> Acesse](modos-de-fazer)
 
+---
+
 ### [La mediación cultural en Medialab Prado](mediacion-cultural)
 
 Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os processos de mediação cultural.
 
 [>> Acesse](mediacion-cultural)
+
+---
 
 ### Conversa na rede: [Laboratórios na sua cidade](labs-sua-cidade)
 
