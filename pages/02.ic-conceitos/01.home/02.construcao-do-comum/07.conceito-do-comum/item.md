@@ -3,6 +3,9 @@ title: 'O conceito do comum: apontamentos introdutórios'
 date: '06:50 15-07-2020'
 hide_page_title: false
 show_sidebar: true
+header_image_alt_text: 'O conceito do comum'
+header_image_credit: 'Tiago Aleixo, Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/fLNs7C0mq5g'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false

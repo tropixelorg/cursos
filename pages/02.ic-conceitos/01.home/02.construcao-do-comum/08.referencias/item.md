@@ -3,6 +3,9 @@ title: 'Mais referências'
 date: '06:53 15-07-2020'
 hide_page_title: false
 show_sidebar: true
+header_image_alt_text: 'Mais Referências'
+header_image_credit: 'Tiago Aleixo, Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/1GpHwkQkrT0'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false

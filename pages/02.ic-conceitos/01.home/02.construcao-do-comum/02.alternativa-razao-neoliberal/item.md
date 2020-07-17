@@ -12,8 +12,10 @@ Entrevista com [Michael Bauwens, da P2P Foundation](https://wiki.p2pfoundation.n
 
 ===
 
+![Michel Bauwens](https://wiki.p2pfoundation.net/File:Michel_Bauwens02.jpg)
+
 > "Os bens comuns não têm nada de novo. Historicamente, os cidadãos sempre se uniram para compartilhar recursos e administrá-los coletivamente de maneira autônoma. É responsabilidade das cidades e dos Estados identificá-los, uni-los e apoiá-los. Os comuns surgem hoje como escolha da sociedade num mundo em crise civilizatória. Sugerem uma sociedade em que sistemas econômicos e produtivos serão finalmente compatíveis com os grandes equilíbrios planetários."
 
-Leia na íntegra no Outras Palavras:
+Leia na íntegra no Outras Palavras (versão arquivada no Internet Archive):
 
-[https://outraspalavras.net/sem-categoria/comuns-alternativa-a-razao-neoliberal/](https://outraspalavras.net/sem-categoria/comuns-alternativa-a-razao-neoliberal/)
+[https://outraspalavras.net/sem-categoria/comuns-alternativa-a-razao-neoliberal/](https://web.archive.org/web/20200108181516/https://outraspalavras.net/sem-categoria/comuns-alternativa-a-razao-neoliberal/)
