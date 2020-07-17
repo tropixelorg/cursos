@@ -17,8 +17,8 @@ Laboratórios como espaços de articulação em torno da ideia de inovação cid
 
 ===
 
-Já vamos deixar claro desde o princípio: o material oferecido aqui como conteúdo 
-educacional aberto foi criado com plena consciência de que "inovação cidadã" é um
+Já vamos deixar claro desde o princípio: o material oferecido aqui como [conteúdo 
+educacional aberto](https://cursos.tropixel.org/ic-conceitos/sobre) foi criado com plena consciência de que "inovação cidadã" é um
 termo controverso. Vamos problematizá-lo nas conversas associadas a este curso na [Rede Tropixel](https://rede.tropixel.org/c/comunidades/curso-ic-conceitos/29), mas por enquanto é importante ressaltar que o que se propõe aqui é explorar uma série de 
 experiências desenvolvidas ao longo dos últimos anos que têm nos _laboratórios experimentais_ um de seus blocos fundamentais.
 

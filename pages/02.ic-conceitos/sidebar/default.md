@@ -15,6 +15,10 @@ Saiba mais sobre o curso [aqui](https://cursos.tropixel.org/ic-conceitos/sobre).
 
 [Felipe Fonseca](https://rede.tropixel.org/u/efeefe/), com contribuições de [Cinthia Mendonça](https://silo.org.br/who-we-are/).
 
+## Tropixel?
+
+Este site está associado à Rede Tropixel. [Saiba mais](https://cursos.tropixel.org/ic-conceitos/sobre) sobre isso.
+
 ## Apoie
 
 Se este material foi útil para você ou sua organização, por favor considere fazer uma contribuição para a Rede Tropixel no [Open Collective](https://opencollective.com/rede-tropixel). 

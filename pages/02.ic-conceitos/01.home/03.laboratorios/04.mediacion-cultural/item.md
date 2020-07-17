@@ -8,7 +8,7 @@ continue_link: true
 hide_git_sync_repo_link: false
 ---
 
-Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os processos de mediação cultural.
+Assista a este vídeo (em espanhol) no qual a equipe do Medialab Prado conta um pouco sobre os processos de mediação cultural.
 
 ===
 
