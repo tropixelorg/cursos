@@ -42,12 +42,6 @@ Grupos de pesquisa científica atravessados pelo mundo, onde há troca e constru
 ###  Vídeos: [A Lente do Comum](lente-do-comum)
  
 Série de vídeos do Instituto Procomum com diversas perspectivas sobre o comum.
-
----
-
-### Conversa na rede: [Comum, comunicação, comunidades](comunidades)
-
-Ao longo desta seção, conversamos sobre a ideia de comum e como ela pode trazer novas perspectivas para contextos sociopolíticos. Vamos agora tentar trazer a conversa um pouco mais para perto.
    
 ---
 
@@ -62,3 +56,9 @@ Para saber mais sobre conceitos ligados aos comuns, leia este artigo de Rodrigo 
 ###  [Mais referências](referencias)
 
 Mais textos, publicações e vídeos sobre laboratórios experimentais.
+
+---
+
+### Conversa na rede: [Comum, comunicação, comunidades](comunidades)
+
+Ao longo desta seção, conversamos sobre a ideia de comum e como ela pode trazer novas perspectivas para contextos sociopolíticos. Vamos agora tentar trazer a conversa um pouco mais para perto.
