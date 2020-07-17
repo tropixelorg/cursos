@@ -3,6 +3,7 @@ title: 'Laboratórios: fazendo o comum na cidade'
 date: '21:04 14-07-2020'
 hide_page_title: false
 show_sidebar: true
+header_image_file: /ic-conceitos/home/construcao-do-comum/comum-na-cidade/lucas-silva-pinheiro-santos-QiunGVx0Sx0-unsplash.jpg
 header_image_alt_text: 'Fazendo o comum na cidade'
 header_image_credit: 'Lucas Silva Pinheiro Santos, Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/QiunGVx0Sx0'
