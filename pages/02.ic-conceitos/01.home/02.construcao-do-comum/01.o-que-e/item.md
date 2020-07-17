@@ -3,7 +3,8 @@ title: 'O que é o comum?'
 published: true
 hide_page_title: false
 show_sidebar: true
-header_image: rita-vicari-m6RCv8K0rTM-unsplash.jpg
+header_image: true
+header_image_file: /ic-conceitos/home/construcao-do-comum/o-que-e/rita-vicari-m6RCv8K0rTM-unsplash.jpg
 header_image_alt_text: 'O que é o comum?'
 header_image_credit: 'Rita Vicari, Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/m6RCv8K0rTM'
