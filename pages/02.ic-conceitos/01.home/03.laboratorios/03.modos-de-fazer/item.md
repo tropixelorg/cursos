@@ -4,7 +4,7 @@ date: '21:04 14-07-2020'
 hide_page_title: false
 show_sidebar: true
 hide_from_post_list: false
-continue_link: true
+continue_link: false
 hide_git_sync_repo_link: false
 ---
 
