@@ -25,7 +25,11 @@ experiências desenvolvidas ao longo dos últimos anos que têm nos _laboratóri
 Esta primeira parte tem por objetivo contar um pouco sobre esses laboratórios,
 e compartilhar referências que ajudem a entender suas potencialidades.
 
+---
+
 ### [Antecedentes: o MIT Media Lab](mit-media-lab)
+
+[![MIT Media Lab](https://dam-prod.media.mit.edu/thumb/2020/06/19/both-buildings_201068MediaLab_30254_a_bqQQbK6.jpg.1400x1400.jpg.1400x1400.jpg)](mit-media-lab)
 
 O MIT Media Lab, nos Estados Unidos, estabeleceu há algumas décadas as bases do que veio a ser chamado de laboratório de mídia. Vamos ver um pouco desta história, suas realizações e controvérsias.
 
@@ -35,6 +39,8 @@ O MIT Media Lab, nos Estados Unidos, estabeleceu há algumas décadas as bases d
 
 ### [Labs nas artes e na cultura - o Medialab Prado](medialab-prado)
 
+[![Medialab Prado](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/static_page/image/MEDIALAB%20PRADO.png?itok=iMsA-K_1)](medialab-prado)
+
 Um dos espaços mais importantes no cenário internacional dos laboratórios de cultura e inovação é o Medialab Prado, em Madri (Espanha). Vamos entender um pouco mais sobre sua história e o que se desenvolve por lá.
 
 [>> Acesse](medialab-prado)
@@ -42,6 +48,8 @@ Um dos espaços mais importantes no cenário internacional dos laboratórios de 
 ---
 
 ### [Medialab Prado - Modos de Fazer](modos-de-fazer)
+
+[![Modos de Fazer](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/space/image/Inteligencia%20colectiva.jpg?itok=7sFM3-q8)](modos-de-fazer)
 
 Princípios do Medialab Prado.
 
@@ -51,6 +59,8 @@ Princípios do Medialab Prado.
 
 ### [La mediación cultural en Medialab Prado](mediacion-cultural)
 
+[![mediacion cultural](mediacion-cultural/thumbnail.png)](mediacion-cultural)
+
 Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os processos de mediação cultural.
 
 [>> Acesse](mediacion-cultural)
@@ -58,6 +68,8 @@ Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os
 ---
 
 ### Conversa na rede: [Laboratórios na sua cidade](labs-sua-cidade)
+
+[![Labs na sua cidade](https://cursos.tropixel.org/images/5/5/b/b/b/55bbb7ad087ec84421306e16f0991ea3ca1e8e57-ckturistando-gita965k380-unsplash.jpeg)](labs-sua-cidade)
 
 Com base nos conteúdos expostos nesta seção, vamos conversar sobre o que seria um laboratório experimental no contexto da cidade em que você vive, estuda ou trabalha.
 
