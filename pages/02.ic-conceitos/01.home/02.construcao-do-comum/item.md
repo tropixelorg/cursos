@@ -1,5 +1,5 @@
 ---
-title: 'Construção do comum'
+title: '02. Construção do comum'
 published: true
 hide_page_title: false
 show_sidebar: true
