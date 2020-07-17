@@ -16,7 +16,7 @@ Mais alguns textos, publicações e vídeos sobre laboratórios experimentais.
 <ul>
     <li><a href="https://archive.org/details/redelabs/">Redelabs</a> - compilação de textos e debates online sobre cultura digital experimental (2010)<br></li>
     <li><a href="https://archive.org/details/2010-CDBR-LabExp">Laboratórios Experimentais</a> - debate durante o segundo Fórum CulturaDigital.BR (2010, Cinemateca Brasileira) - vídeo original com palestras em inglês e espanhol e debates em português</li>
-    <li><a href="http://culturadigital.br/redelabs/">Blog rede//labs</a>, documentando diversos projetos<br></li>
+    <li><a href="https://redelabs-org.github.io">Blog rede//labs</a>, documentando diversos projetos<br></li>
     <li><a href="https://midiatatica.desarquivo.org/2014-2017/redelabs-laboratorios-experimentais-em-rede/">REDELABS - Laboratórios Experimentais em Rede</a>, dissertação de mestrado de Felipe Fonseca (2014)</li>
     <li>Arranjos Experimentais Criativos em Cultura Digital Experimental, relatório de consultoria para o PNUD e Ministério da Cultura (2014):</li>
     <ul>

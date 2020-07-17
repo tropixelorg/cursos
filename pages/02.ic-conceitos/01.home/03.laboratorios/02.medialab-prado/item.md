@@ -25,9 +25,7 @@ Havia também algum parentesco com os _hacklabs_ que surgiam na cena de ocupaç�
 
 Felipe Fonseca, [Laboratórios experimentais: interface rede-rua](https://efeefe-arquivo.github.io/livro/lpd/labs-interface-rede-rua/)
 
-Em seguida, falaremos sobre um dos espaços mais importantes neste contexto, o Medialab Prado, da Espanha. Entretanto, se quiser antes saber um pouco mais sobre o histórico dos Laboratórios de Mídia e seus desdobramentos, pode dar uma olhada neste post de blog:
-
-http://culturadigital.br/redelabs/2010/06/laboratorios-de-midia-referencias/
+Em seguida, falaremos sobre um dos espaços mais importantes neste contexto, o Medialab Prado, da Espanha. Entretanto, se quiser antes saber um pouco mais sobre o histórico dos Laboratórios de Mídia e seus desdobramentos, pode dar uma olhada neste [post de blog](https://redelabs-org.github.io/blog/laboratorios-de-midia-referencias.html).
 
 ### O Medialab Prado
 
