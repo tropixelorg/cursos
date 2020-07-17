@@ -7,7 +7,7 @@ header_image_alt_text: 'MIT Media Lab'
 header_image_credit: 'Catherine D Ignazio, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/50628274@N00/15467413382/'
 hide_from_post_list: false
-continue_link: true
+continue_link: false
 hide_git_sync_repo_link: true
 ---
 
