@@ -12,7 +12,7 @@ Entrevista com [Michael Bauwens, da P2P Foundation](https://wiki.p2pfoundation.n
 
 ===
 
-![Michel Bauwens](https://wiki.p2pfoundation.net/File:Michel_Bauwens02.jpg)
+![Michel Bauwens](https://wiki.p2pfoundation.net/images/Michel_Bauwens02.jpg)
 
 > "Os bens comuns não têm nada de novo. Historicamente, os cidadãos sempre se uniram para compartilhar recursos e administrá-los coletivamente de maneira autônoma. É responsabilidade das cidades e dos Estados identificá-los, uni-los e apoiá-los. Os comuns surgem hoje como escolha da sociedade num mundo em crise civilizatória. Sugerem uma sociedade em que sistemas econômicos e produtivos serão finalmente compatíveis com os grandes equilíbrios planetários."
 
