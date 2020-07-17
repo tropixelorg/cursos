@@ -12,7 +12,7 @@ content:
     order:
         by: default
         dir: desc
-    pagination: '1'
+    pagination: '0'
 hero_scroll: false
 hide_post_summary: true
 post_icon: calendar-o
