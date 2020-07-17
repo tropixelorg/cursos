@@ -7,7 +7,7 @@ header_image_alt_text: 'Medialab Prado'
 header_image_credit: 'CC-BY-SA Medialab Prado, Flickr'
 header_image_creditlink: 'https://www.flickr.com/photos/medialab-prado/11250728004/'
 hide_from_post_list: false
-continue_link: true
+continue_link: false
 hide_git_sync_repo_link: false
 ---
 
