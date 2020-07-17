@@ -1,6 +1,6 @@
 ---
 title: 'Construção do comum'
-published: false
+published: true
 hide_page_title: false
 show_sidebar: true
 header_image_alt_text: Comum
