@@ -3,6 +3,9 @@ title: 'Comum, comunicação, comunidades'
 date: '06:53 15-07-2020'
 hide_page_title: false
 show_sidebar: true
+jscomments:
+    active: true
+    provider: discourse
 header_image_alt_text: 'Comum, comunicação, comunidades'
 header_image_credit: 'Hillary Ungson, Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/TdpSX7XAcKo'
