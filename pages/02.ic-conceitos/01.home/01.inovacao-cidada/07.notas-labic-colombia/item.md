@@ -14,7 +14,7 @@ Leia o relato de Rodrigo Savazoni sobre sua participação como mentor em uma ed
 
 ![](https://www.innovacionciudadana.org/wp-content/uploads/2016/11/rodrigo-1-800x523.jpeg)
 
-> Foi a primeira vez que me submeti integralmente a esse acelerador de partículas que é um laboratório baseado na metodologia desenvolvida pelo MediaLab-Prado. Uma metodologia de sucesso, premiada e reconhecida, que surge com os Interactivos e avança para os LABICs, com adaptações e melhorias. Então elaborei algumas notas, de distintos tamanho e qualidade, sobre diferentes aspectos dessa experiência que vivi. Essa minha participação contribuiu enormemente para transformar meu olhar mas também para fortalecer algumas convicções.
+> "Foi a primeira vez que me submeti integralmente a esse acelerador de partículas que é um laboratório baseado na metodologia desenvolvida pelo MediaLab-Prado. Uma metodologia de sucesso, premiada e reconhecida, que surge com os Interactivos e avança para os LABICs, com adaptações e melhorias. Então elaborei algumas notas, de distintos tamanho e qualidade, sobre diferentes aspectos dessa experiência que vivi. Essa minha participação contribuiu enormemente para transformar meu olhar mas também para fortalecer algumas convicções.""
 
 
 Leia na íntegra [aqui](https://www.innovacionciudadana.org/pt-pt/notas-sobre-o-labic-colombia/).

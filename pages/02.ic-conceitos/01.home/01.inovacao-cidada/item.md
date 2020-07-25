@@ -16,6 +16,8 @@ A aplicação de abordagens experimentais e baseadas no comum para enfrentar que
 
 ### [Inovação e cidadania](inovacao-cidadania)
 
+![Inovação e Cidadania](https://cursos.tropixel.org/images/a/b/e/8/1/abe81e85248aaeea6983067dcc6c74c59dde6d82-thiago-japyassu-pzetln0dtom-unsplash.jpeg)
+
 De que forma as práticas criativas colaborativas surgidas no entorno dos laboratórios experimentais podem ser aplicadas a questões sociais em comunidades e cidades? Vamos conversar um pouco sobre o desenvolvimento da ideia de inovação cidadã, e alguns de seus desdobramentos.
 
 [>> Acesse](inovacao-cidadania)
@@ -23,6 +25,8 @@ De que forma as práticas criativas colaborativas surgidas no entorno dos labora
 ---
 
 ### [Laboratórios de Inovação Cidadã](laboratorios-ic)
+
+![Laboratórios de Inovação Cidadã](https://cursos.tropixel.org/images/1/d/2/0/a/1d20aded1f7c83b56041bd94f8eb37eb27b3b0b1-filip-gielda-qkrldkoydrc-unsplash.jpeg)
 
 A experiência dos Laboratórios de Inovação Cidadã em diversas localidades do espaço iberoamericano - possível inspiração para projetos.
 
@@ -32,6 +36,8 @@ A experiência dos Laboratórios de Inovação Cidadã em diversas localidades d
 ---
 
 ### [Expansões](expansoes)
+
+![Expansões](https://cursos.tropixel.org/images/6/8/4/c/2/684c257fd616bb2597d0f3381908dedca3075144-steve-johnson-jeuz6seu7e-unsplash.jpeg)
   
 Laboratórios de Inovação Cidadã para além dos LABIC.
 
@@ -41,13 +47,17 @@ Laboratórios de Inovação Cidadã para além dos LABIC.
 
 ### [A Colaboradora - Artes e Comunidades](colaboradora)
 
+![A Colaboradora](https://cursos.tropixel.org/images/4/c/d/1/3/4cd1312cf9e7350222a3a3e13faa6d80da2546f6-colaboradora.png)
+
 Registros do 1° Ano do projeto A Colaboradora realizado pelo Instituto Procomum.
 
 [>> Acesse](colaboradora)
 
 ---
 
-### [Laboratórios empáticos](laboratorios-empaticos)
+### [Laboratórios Empáticos](laboratorios-empaticos)
+
+![Laboratórios Empáticos](https://cursos.tropixel.org/images/6/a/c/8/3/6ac8315458d92dbaeb679abcbf1833dd18e2e49e-annie-spratt-gq5pecp8phe-unsplash.jpeg)
 
 Leia o artigo de Cinthia Mendonça sobre Laboratórios Empáticos.
 
@@ -59,6 +69,8 @@ Leia o artigo de Cinthia Mendonça sobre Laboratórios Empáticos.
 
 ###  [Notas sobre o Labic, Colômbia](notas-labic-colombia)
 
+![Notas sobre o LABIC, Colômbia](https://www.innovacionciudadana.org/wp-content/uploads/2016/11/rodrigo-1-800x523.jpeg)
+
 Leia o relato de Rodrigo Savazoni sobre sua participação como mentor em uma edição do LABIC.
 
 [>> Acesse](notas-labic-colombia)
@@ -67,6 +79,8 @@ Leia o relato de Rodrigo Savazoni sobre sua participação como mentor em uma ed
 
 ### Na rede: [Conversa sobre inovação cidadã](conversa-inovacao-cidada)
 
+
+
 O que você achou de mais interessante e de mais problemático nos projetos de inovação cidadã sobre os quais falamos nas seções anteriores desse curso? Traga para a discussão aqui (clicando em Responder) suas experiências, curiosidades e inquietações.
 
-[>> Acesse](conversa-inovacao-cidadania)
+[>> Acesse](conversa-inovacao-cidada)
