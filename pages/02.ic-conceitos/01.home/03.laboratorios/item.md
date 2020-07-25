@@ -11,9 +11,7 @@ hide_from_post_list: false
 continue_link: true
 ---
 
-## Laboratórios
-
-Laboratórios como espaços de articulação em torno da ideia de inovação cidadã. Como se estruturam, quais seus significados e implicações.
+Laboratórios - espaços de articulação em torno da ideia de inovação cidadã. Como se estruturam, quais seus significados e implicações.
 
 ===
 

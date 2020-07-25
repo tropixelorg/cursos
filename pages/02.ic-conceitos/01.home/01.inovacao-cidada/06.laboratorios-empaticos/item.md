@@ -6,6 +6,9 @@ show_sidebar: true
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
+header_image_alt_text: 'Laboratórios Empáticos'
+header_image_credit: 'Annie Spratt, Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/gq5PECP8pHE'
 ---
 
 Leia o artigo de Cinthia Mendonça sobre Laboratórios Empáticos.

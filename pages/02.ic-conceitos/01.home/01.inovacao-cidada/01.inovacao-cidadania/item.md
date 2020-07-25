@@ -3,9 +3,9 @@ title: 'Inovação e cidadania'
 published: true
 hide_page_title: false
 show_sidebar: true
-header_image_alt_text: 'MIT Media Lab'
-header_image_credit: 'Catherine D Ignazio, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/50628274@N00/15467413382/'
+header_image_alt_text: 'Inovação e Cidadania'
+header_image_credit: 'Thiago Japyassu, Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/pZetlN0dtoM'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true

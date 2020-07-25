@@ -6,6 +6,10 @@ show_sidebar: true
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
+header_image_alt_text: 'Expansões'
+header_image_credit: 'Steve Johnson, Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/jEuz6SEU_7E'
+
 ---
 
 Laboratórios de Inovação Cidadã para além dos LABIC.

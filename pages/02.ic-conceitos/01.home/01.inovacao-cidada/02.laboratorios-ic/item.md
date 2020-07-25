@@ -5,6 +5,9 @@ hide_page_title: false
 show_sidebar: true
 hide_from_post_list: false
 continue_link: true
+header_image_alt_text: 'Laboratórios de Inovação Cidadã'
+header_image_credit: 'Filip Gielda, Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/QKrLdkoYDrc'
 hide_git_sync_repo_link: false
 ---
 
@@ -28,6 +31,6 @@ As diferentes edições do LABIC chegaram a reunir por vezes mais de cem pessoas
 
 ![Projetos](https://icsa.moodlecloud.com/pluginfile.php/63/mod_page/content/7/Projetos.png)
 
-Os projetos desenvolvidos nos encontros LABIC cobrem uma vasta amplitude de temas, metodologias e contextos. Veja por exemplo a [listagem em português](https://www.innovacionciudadana.org/laboratorios/pt-br/) dos projetos das edições de 2014 e 2015 do LABIC. São metodologias, sensores, dinâmicas coletivas, mapeamentos, tecnologias e afins. O mais importante é que são selecionados projetos que respondam a um contexto social local, e que possam se beneficiar dos intercâmbios e construções que o formato colaborativo do LABIC pode oferecer.
+Os projetos desenvolvidos nos encontros LABIC cobrem uma vasta gama de temas, metodologias e contextos. Veja por exemplo a [listagem em português](https://www.innovacionciudadana.org/laboratorios/pt-br/) dos projetos das edições de 2014 e 2015 do LABIC. São metodologias, sensores, dinâmicas coletivas, mapeamentos, tecnologias e afins. O mais importante é que são selecionados projetos que respondam a um contexto social local, e que possam se beneficiar dos intercâmbios e construções que o formato colaborativo do LABIC pode oferecer.
 
 Entretanto, em um espaço geográfico tão amplo, pode parecer que um encontro anual é insuficiente, não? De fato, é. Por isso mesmo, diversas iniciativas locais têm se inspirado nesse formato para organizar seus próprios laboratórios. Vamos ver mais sobre isso na próxima seção.
