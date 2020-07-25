@@ -1,6 +1,6 @@
 ---
-title: 'Inovação cidadã'
-published: false
+title: '03. Inovação cidadã'
+published: true
 hide_page_title: false
 show_sidebar: true
 header_image_alt_text: 'Inovação Cidadã'
@@ -30,10 +30,6 @@ Laboratórios de Inovação Cidadã para além dos LABIC.
 ### [A Colaboradora - Artes e Comunidades](colaboradora)
 
 Registros do 1° Ano do projeto A Colaboradora realizado pelo Instituto Procomum.
- 
-### [Laboratórios de Inovação Cidadã - discussão]
-
-O que você achou de mais interessante e de mais problemático nos projetos de inovação cidadã sobre os quais falamos nas seções anteriores desse curso? Traga para a discussão aqui (clicando em Responder) suas experiências, curiosidades e inquietações.
     
 ### [Laboratórios empáticos](laboratorios-empaticos)
 
@@ -44,3 +40,7 @@ Leia o artigo de Cinthia Mendonça sobre Laboratórios Empáticos.
 ###  [Notas sobre o Labic, Colômbia](notas-labic-colombia)
 
 Leia o relato de Rodrigo Savazoni depois que participou como mentor em uma edição do LABIC.
+
+### Na rede: [Conversa sobre inovação cidadã](conversa-inovacao-cidada)
+
+O que você achou de mais interessante e de mais problemático nos projetos de inovação cidadã sobre os quais falamos nas seções anteriores desse curso? Traga para a discussão aqui (clicando em Responder) suas experiências, curiosidades e inquietações.

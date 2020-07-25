@@ -15,7 +15,8 @@ Mais alguns textos, publicações e vídeos sobre laboratórios experimentais.
 
 ===
 
-Reflita sobre como o comum está presente (ou ausente) no seu trabalho cotidiano, na sua vida profissional ou social, ou de forma mais ampla em sua cidade e no Brasil.
-Não estamos esperando uma resposta correta, mas sim ampliar a discussão a partir do pensamento sobre o comum que vimos exemplificado e refletido aqui.
+Vamos refletir sobre como o comum está presente (ou ausente) no nosso trabalho cotidiano, na nossa vida profissional ou social, ou de forma mais ampla em nossa cidade e país.
+
+Não estamos buscando uma resposta correta, mas sim ampliar a discussão a partir do pensamento sobre o comum que vimos exemplificado e refletido aqui.
 
 Para participar da conversa, você precisa cadastrar-se na [Rede Tropixel](https://rede.tropixel.org). Saiba por que [aqui](https://cursos.tropixel.org/ic-conceitos/sobre).

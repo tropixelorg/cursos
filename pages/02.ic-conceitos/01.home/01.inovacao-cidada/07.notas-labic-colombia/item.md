@@ -8,7 +8,7 @@ continue_link: true
 hide_git_sync_repo_link: false
 ---
 
-Leia o relato de Rodrigo Savazoni depois que participou como mentor em uma edição do LABIC.
+Leia o relato de Rodrigo Savazoni sobre sua participação como mentor em uma edição do LABIC.
 
 ===
 
