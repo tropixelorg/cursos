@@ -79,7 +79,7 @@ Leia o relato de Rodrigo Savazoni sobre sua participação como mentor em uma ed
 
 ### Na rede: [Conversa sobre inovação cidadã](conversa-inovacao-cidada)
 
-
+![Conversa sobre inovação cidadã](https://cursos.tropixel.org/images/3/e/2/8/a/3e28a22250e26a44b14af51fc3871622cd038eeb-hans-peter-gauster-3y1zf4hipcg-unsplash.jpeg)
 
 O que você achou de mais interessante e de mais problemático nos projetos de inovação cidadã sobre os quais falamos nas seções anteriores desse curso? Traga para a discussão aqui (clicando em Responder) suas experiências, curiosidades e inquietações.
 
