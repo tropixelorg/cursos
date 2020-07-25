@@ -48,6 +48,8 @@ Grupos de pesquisa científica atravessados pelo mundo, onde há troca e constru
 ---
 
 ###  Vídeos: [A Lente do Comum](lente-do-comum)
+
+![A Lente do Comum](https://cursos.tropixel.org/images/8/3/b/d/8/83bd897bec4f045ec07fbbff805c584e6a8981c7-4402446119015241801545665482100023300718592n-1.jpeg)
  
 Série de vídeos do Instituto Procomum com diversas perspectivas sobre o comum.
    
