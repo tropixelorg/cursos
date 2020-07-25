@@ -3,6 +3,9 @@ title: 'Labs na sua cidade'
 published: true
 hide_page_title: false
 show_sidebar: false
+jscomments:
+    active: true
+    provider: discourse
 header_image_alt_text: 'Labs na sua cidade'
 header_image_credit: 'ckturistando, Flickr.com'
 header_image_creditlink: 'https://unsplash.com/photos/GiTA965K380'
