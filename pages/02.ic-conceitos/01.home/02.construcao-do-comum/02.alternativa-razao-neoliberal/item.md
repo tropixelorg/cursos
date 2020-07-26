@@ -1,5 +1,5 @@
 ---
-title: 'Comuns, alternativa à razão neoliberal'
+title: '02.02. Comuns, alternativa à razão neoliberal'
 date: '21:04 14-07-2020'
 hide_page_title: false
 show_sidebar: true

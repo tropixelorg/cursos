@@ -1,5 +1,5 @@
 ---
-title: 'Laboratórios: fazendo o comum na cidade'
+title: '02.03. Laboratórios: fazendo o comum na cidade'
 date: '21:04 14-07-2020'
 hide_page_title: false
 show_sidebar: true

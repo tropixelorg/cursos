@@ -1,5 +1,5 @@
 ---
-title: 'O conceito do comum: apontamentos introdutórios'
+title: '02.06. O conceito do comum: apontamentos introdutórios'
 date: '06:50 15-07-2020'
 hide_page_title: false
 show_sidebar: true

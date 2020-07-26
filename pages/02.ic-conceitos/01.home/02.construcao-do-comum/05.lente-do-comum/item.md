@@ -1,5 +1,5 @@
 ---
-title: 'A Lente do Comum'
+title: '02.05. A Lente do Comum'
 date: '21:04 14-07-2020'
 hide_page_title: false
 show_sidebar: true
