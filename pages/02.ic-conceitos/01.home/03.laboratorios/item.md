@@ -71,7 +71,7 @@ Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os
 
 Algumas iniciativas brasileiras inseridas no contexto dos laboratórios experimentais de cultura e tecnologia, e outras referências internacionais.
 
-[>> Acesse](labs-brasil)
+[>> Acesse](labs-brasil-mundo)
 
 ---
 
