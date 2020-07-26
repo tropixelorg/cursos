@@ -1,5 +1,5 @@
 ---
-title: 'Laboratórios no Brasil e no mundo'
+title: '01.05. Labs no Brasil e no mundo'
 published: true
 hide_page_title: false
 show_sidebar: false
