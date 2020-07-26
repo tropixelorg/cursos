@@ -33,6 +33,5 @@ O Brasil tem uma participação significativa no cenário internacional dos labo
     </ul>
     <li><a href="https://redelabs-org.github.io">Blog rede//labs</a>, documentando diversos projetos (mantido até 2017)<br></li>
 </ul>
-<p><br></p>
 
-Esses levantamentos oferecem um recorte sobre as épocas em que foram feitos. Certamente um levantamento feito em 2020 seria muito mais rico. Ajude a completar essa lista, participando da conversa nos comentários abaixo ou sugerindo uma edição desta página no repositório no GitHub.
+Esses levantamentos oferecem um recorte sobre as épocas em que foram feitos. Certamente um levantamento feito em 2020 seria muito mais rico. Ajude a completar essa lista, participando da conversa nos comentários abaixo ou sugerindo uma [edição desta página no repositório no GitHub](https://github.com/tropixelorg/cursos/blob/master/pages/02.ic-conceitos/01.home/03.laboratorios/05.labs-brasil-mundo/item.md).
