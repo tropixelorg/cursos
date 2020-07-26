@@ -67,6 +67,8 @@ Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os
 
 ### 01.05. Referências: [Labs no Brasil e no mundo](labs-brasil-mundo)
 
+[![Labs no Brasil e no mundo](https://cursos.tropixel.org/images/f/c/a/0/d/fca0de6b5d8ddd18f01cb4482ed4c5f47965672c-tiago-aleixo-1gphwkqkrt0-unsplash.jpeg)](labs-brasil-mundo)
+
 Algumas iniciativas brasileiras inseridas no contexto dos laboratórios experimentais de cultura e tecnologia, e outras referências internacionais.
 
 [>> Acesse](labs-brasil)
