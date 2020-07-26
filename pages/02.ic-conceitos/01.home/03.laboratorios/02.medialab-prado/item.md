@@ -1,5 +1,5 @@
 ---
-title: 'Labs nas artes e na cultura - o Medialab Prado'
+title: '01.02. Labs nas artes e na cultura - o Medialab Prado'
 date: '21:04 14-07-2020'
 hide_page_title: false
 show_sidebar: true

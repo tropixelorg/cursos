@@ -1,5 +1,5 @@
 ---
-title: 'Medialab Prado - Modos de Fazer'
+title: '01.03. Medialab Prado - Modos de Fazer'
 date: '21:04 14-07-2020'
 hide_page_title: false
 show_sidebar: true

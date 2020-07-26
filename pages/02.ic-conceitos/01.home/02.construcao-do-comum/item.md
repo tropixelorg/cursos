@@ -77,17 +77,7 @@ Para saber mais sobre conceitos ligados aos comuns, leia este artigo de Rodrigo 
 
 ---
 
-###  02.07. [Mais referências](referencias)
-
-![Mais referências](https://cursos.tropixel.org/images/5/f/8/6/4/5f864b9bbb71e8ff7c32e713f061714cfa6168b6-tiago-aleixo-1gphwkqkrt0-unsplash.jpeg)
-
-Mais textos, publicações e vídeos sobre laboratórios experimentais.
-
-[>> Acesse](referencias)
-
----
-
-### 02.08. Conversa na rede: [Comum, comunicação, comunidades](comunidades)
+### 02.07. Conversa na rede: [Comum, comunicação, comunidades](comunidades)
 
 ![Comum, comunicação, comunidades](https://cursos.tropixel.org/images/c/0/d/2/6/c0d2627d9ab7f9a6648b9c70f8b56cbe5ab8a833-hillary-ungson-tdpsx7xacko-unsplash.jpeg)
 
