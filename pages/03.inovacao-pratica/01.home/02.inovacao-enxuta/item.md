@@ -1,9 +1,9 @@
 ---
-title: '02. Construção do comum'
+title: '02. Inovação enxuta'
 published: true
 hide_page_title: false
 show_sidebar: true
-header_image_alt_text: Comum
+header_image_alt_text: Enxuta
 header_image_credit: 'Mario Purisic, Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/jG1z5o7NCq4'
 hide_from_post_list: false
@@ -11,76 +11,41 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 
-A inovação cidadã baseia-se amplamente em torno da construção do comum - aquilo que é coletivo, vai além da soma de diversos particulares mas também não é propriamente público. Vamos nos aprofundar um pouco neste assunto fascinante e tentar entender quais inspirações ele pode trazer para nossos projetos.
+Um dos maiores obstáculos à geração e implementação de novas ideias é a cultura do planejamento de longo prazo. Imaginamos que antes mesmo de tentar qualquer coisa, é necessário entender completamente o cenário, antever todos os problemas e minimizar os riscos. Um contraponto a isso é a cultura de inovação alimentada pelas novas tecnologias e suas formas de desenvolvimento. Fazendo obviamente a ressalva de que o campo da cultura tem bases muito diferentes do mercado tecnológico, vamos pensar em algumas referências que podem ser relevantes quando usadas de maneira consciente.
 
 ===
 
-### 02.01. [O que é o comum?](o-que-e)
+## Lean Startup
 
-![O que é o comum?](https://cursos.tropixel.org/images/2/c/d/0/3/2cd032daa18ce3aef9bd8dd5164c7dd4d433cfb8-rita-vicari-m6rcv8k0rtm-unsplash.jpeg)
-
-A palavra "comum" suscita muitas possíveis interpretações. Dentro do contexto dos laboratórios experimentais e dos projetos de inovação cidadã, o comum é compreendido em torno de alguns conceitos. Vamos ver quais são eles.
-
-[>> Acesse](o-que-e)
+Uma introdução à ideia de "lean startup", e como ela pode ajudar a gerar e aplicar ideias novas.
 
 ---
 
-### 02.02. [Comuns, alternativa à razão neoliberal](alternativa-razao-neoliberal)
+A lean startup, ou "startup enxuta", é um modelo de gestão formulado pelo empreendedor estadunidense Eric Ries que propõe que, em vez de planejar ações a longo prazo e tentar antecipar todos os problemas que possam ter, o ideal é fazer justamente o oposto: experimentar o mais cedo possível, e corrigir o rumo enquanto as coisas são desenvolvidas. Para Ries, o empreendedorismo está em toda parte, e ele pode ser traduzido basicamente como um modo de gestão. Afirma ainda que o recurso mais importante para a inovação aplicada é o aprendizado validado - ou seja, quando se testa uma ideia de forma concreta com as pessoas que serão impactadas por ela.
 
-![Comuns, alternativa à razão neoliberal](https://wiki.p2pfoundation.net/images/Michel_Bauwens02.jpg)
+Para Ries, uma organização enxuta baseia-se na reiteração de um ciclo composto por três etapas:
 
-Leia a entrevista de Michael Bauwens, da P2P Foundation, sobre os comuns como resistência política
+-     Construir
+-     Medir
+-     Aprender
 
-[>> Acesse](alternativa-razao-neoliberal)
-  
----
+Idealmente, essas etapas ficam em loop constante: uma vez que uma ideia tenha sido implementada - ainda que de forma superficial e falha -, ela já pode ser testada, e levar a aprendizados que vão informar a próxima etapa de construção. É importante, nesse sentido, pensar em formas bastante concretas de medir a inovação. No contexto das empresas de tecnologia, podem ser utilizados alguns mecanismos:
 
-### 02.03. [Laboratórios: fazendo o comum na cidade](comum-na-cidade)
+- MVP, ou produto mínimo viável. Um protótipo, ou versão inicial do produto, mesmo que ainda não funcional, mas que já permita aos possíveis usuários terem uma experiência semelhante à que se espera proporcionar no futuro.
+- Teste AB, oferecendo protótipos diferentes para diferentes grupos e testando como eles reagem ou interagem.
 
-![Laboratórios: fazendo o comum na cidade](https://cursos.tropixel.org/images/e/4/2/5/a/e425ab9e3a353f0f258ed20a2506148b6bd01b63-lucas-silva-pinheiro-santos-qiungvx0sx0-unsplash.jpeg)
+Um aspecto central da concepção de inovação enxuta é o que se chama em inglês de "pivoting", e nas empresas de tecnologia no Brasil é citado como "pivotagem" ou "pivotar". Pivotar significa mudar, às vezes de forma radical, o projeto em questão. Assume-se que a maior garantia para a relevância de qualquer atividade é a conexão de aprendizado a partir das pessoas que podem ser impactadas por ela - sejam os consumidores de um produto, ou o público de uma produção cultural. Assim, a experimentação com essas pessoas pode levar seus proponentes a entenderem que existe algum caminho que ainda não haviam considerado. Ou mesmo que o projeto não tem relevância nenhuma em seu formato atual, mas pode ser reformulado a partir do feedback e assim ganhar importância.
 
-Seriam os laboratórios experimentais, situados na cidade, veículos potentes para promover a construção do comum? Vamos ver algumas experiências que vêm tentando avançar neste sentido.
+Uma das maiores dificuldades de implantar a inovação enxuta em organizações estabelecidas é justamente a dificuldade que elas têm em pivotar. Mas falaremos mais sobre isso em outra seção. Por enquanto, vamos concentrar em associar a inovação enxuta a essas três etapas: construir / medir / aprender, e à ideia de pivotar quando necessário a partir do que se aprende com a experimentação no mundo real.
 
-[>> Acesse](comum-na-cidade)
+Perceba que existem alguns paralelos da inovação enxuta com o design thinking. Ambos falam em experimentar diretamente com as pessoas. Mas se o design thinking adota uma perspectiva linear do aprendizado à avaliação, a inovação enxuta pensa sempre em termos de ciclos continuados.
 
----
-  
-### 02.04. Artigo: [O que são os “Laboratórios do Comum”](laboratorios-do-comum)
+### Video - como começar qualquer negócio
 
-![O que são os "Laboratórios do Comum"](https://cursos.tropixel.org/images/6/d/2/a/1/6d2a1111d11eb3cc253bba3194a869c7349328d5-james-marcom-xs-rbpxytgu-unsplash.jpeg)
+https://www.youtube.com/watch?v=kmeDb4DJnHE&t=1s
 
-Grupos de pesquisa científica atravessados pelo mundo, onde há troca e construção coletivas, sem separação entre “dentro” e “fora”, e onde o saber das experiências é valorizado. Uma experiência começa a surgir, em bairro de São Paulo. Leia o relato do professor Henrique Parra, da Unifesp.
+"... esse livro é essencial pra qualquer pessoa que queira começar um negócio, uma empresa, a empreender, a mostrar a sua arte, seu trabalho etc."
 
-[>> Acesse](laboratorios-do-comum)
+### Video: Lições da startup Enxuta
 
----
-
-###  02.05. Vídeos: [A Lente do Comum](lente-do-comum)
-
-![A Lente do Comum](https://cursos.tropixel.org/images/8/3/b/d/8/83bd897bec4f045ec07fbbff805c584e6a8981c7-4402446119015241801545665482100023300718592n-1.jpeg)
- 
-Série de vídeos do Instituto Procomum com diversas perspectivas sobre o comum.
-
-[>> Acesse](lente-do-comum)
-   
----
-
-### 02.06. Artigo: [O conceito do comum: apontamentos introdutórios](conceito-do-comum)
-
-![O conceito do comum](https://cursos.tropixel.org/images/1/e/8/2/5/1e825028011b0910248a485efa74f5c200c6ae57-tiago-aleixo-flns7c0mq5g-unsplash.jpeg)
-
-Para saber mais sobre conceitos ligados aos comuns, leia este artigo de Rodrigo Savazoni e Sergio Amadeu da Silveira.
-
-**RESUMO** Com a publicação de Bem-estar comum, escrito por Michael Hardt e Antonio Negri (2016), de O comum: ensaio sobre a revolução no século XXI, de Christian Laval e Pierre Dardot (2017), e de Calibã e a bruxa, de Silvia Federici, o tema do comum (procomún em espanhol, commons em inglês) voltou a ganhar a atenção de pesquisadores das ciências humanas e sociais no Brasil. Neste artigo, retomamos um esforço realizado por Sergio Amadeu da Silveira em 2007, quando publicou o artigo “O conceito de commons na cibercultura”, e realizamos um percurso por autores que trabalham com o conceito de comum, contribuindo para descrever e localizar parte da bibliografia disponível sobre o tema, sendo grande parcela ainda indisponível em português. No artigo, tratamos da obra de autores como Garrett Hardin, Elinor Ostrom, David Bollier, Laval e Dardot, Hardt e Negri, Silvia Federici, Michel Bauwens, Silke Helfrich, Imre Simon, Miguel Said Vieira, Joan Subirats e César Rendueles, Yochai Benkler, Rafael Zanatta e Ugo Mattei, entre outros.
-
-[>> Acesse](conceito-do-comum)
-
----
-
-### 02.07. Conversa na rede: [Comum, comunicação, comunidades](comunidades)
-
-![Comum, comunicação, comunidades](https://cursos.tropixel.org/images/c/0/d/2/6/c0d2627d9ab7f9a6648b9c70f8b56cbe5ab8a833-hillary-ungson-tdpsx7xacko-unsplash.jpeg)
-
-Ao longo desta seção, conversamos sobre a ideia de comum e como ela pode trazer novas perspectivas para contextos sociopolíticos. Vamos agora tentar trazer a conversa um pouco mais para perto.
-
-[>> Acesse](comunidades)
+https://www.youtube.com/watch?v=AXv0YqBuXgw

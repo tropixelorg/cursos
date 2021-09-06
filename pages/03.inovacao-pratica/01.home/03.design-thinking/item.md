@@ -1,84 +1,62 @@
 ---
-title: '01 - Laboratórios'
+title: '03 - Design Thinking'
 published: true
 hide_page_title: false
 show_sidebar: true
 hide_git_sync_repo_link: false
-header_image_alt_text: Laboratórios
+header_image_alt_text: Design Thinking
 header_image_credit: 'Yeshi Kangrang, Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/PM_VwL2ypes/'
 hide_from_post_list: false
 continue_link: true
 ---
 
-Laboratórios - espaços de articulação em torno da ideia de inovação cidadã. Como se estruturam, quais seus significados e implicações.
+Visão geral sobre o design thinking, e como pode ser aplicado a diferentes tipos de projetos.
 
 ===
 
-Já vamos deixar claro desde o princípio: o material oferecido aqui como [conteúdo 
-educacional aberto](https://cursos.tropixel.org/ic-conceitos/sobre) foi criado com plena consciência de que "inovação cidadã" é um
-termo controverso. Vamos problematizá-lo nas conversas associadas a este curso na [Rede Tropixel](https://rede.tropixel.org/c/comunidades/curso-ic-conceitos/29), mas por enquanto é importante ressaltar que o que se propõe aqui é explorar uma série de 
-experiências desenvolvidas ao longo dos últimos anos que têm nos _laboratórios experimentais_ um de seus blocos fundamentais.
+O modo de pensar do design, ou design thinking, consiste em um conjunto de métodos utilizados para gerar respostas inovadoras para problemas concretos. Ele vem se popularizando recentemente, e conta com traduções para diversos campos do conhecimento.
 
-Esta primeira parte tem por objetivo contar um pouco sobre esses laboratórios,
-e compartilhar referências que ajudem a entender suas potencialidades.
+Em resumo, o Design Thinking decompõe o processo de geração de inovações em uma série de etapas a ser percorridas. Ele se origina principalmente a partir do trabalho da IDEO, uma consultoria internacional de design, em especial em torno de seus diretores David Kelly e Tim Brown. Existem muitas referências sobre o design thinking na internet. Por exemplo, assista a esse vídeo de Tim Brown prontificando designers a pensar grande:
 
----
+https://www.ted.com/talks/tim_brown_designers_think_big
 
-### 01.01. [Antecedentes: o MIT Media Lab](mit-media-lab)
+(se preferir, acesse a [transcrição do vídeo](https://www.ted.com/talks/tim_brown_designers_think_big/transcript) e selecione a tradução para português do Brasil)
 
-[![MIT Media Lab](https://dam-prod.media.mit.edu/thumb/2020/06/19/both-buildings_201068MediaLab_30254_a_bqQQbK6.jpg.1400x1400.jpg.1400x1400.jpg)](mit-media-lab)
+O design thinking propõe em resumo uma inversão do processo de projetar soluções. Em vez de partir da perspectiva e da visão de mundo do produto ou do conhecimento especializado, ele propõe etapas para entender os problemas do ponto de vista das pessoas. Ele adota uma visão crítica, analisando os problemas de forma mais aprofundada e reflexiva. Por fim, ele tem uma postura experimental, testando e observando.
 
-O MIT Media Lab, nos Estados Unidos, estabeleceu há algumas décadas as bases do que veio a ser chamado de laboratório de mídia. Vamos ver um pouco desta história, suas realizações e controvérsias.
+Existem diferentes visões sobre quais exatamente devem ser as etapas, e como nomeá-las. A depender da visão, elas podem ser 3, 4, 5 ou 7. Para nossas finalidades aqui, vamos pensar em cinco etapas, conforme constam da excelente publicação **Design Thinking para Educadores**:
 
-[>> Acesse](mit-media-lab)
+1. Descoberta (ou "criar empatia")
+2. Interpretação (ou "definir o problema)
+3. Ideação (ou "inventar soluções")
+4. Experimentação (ou "prototipagem")
+5. Evolução (ou "testes e reiteração")
 
----
+Em essência, o design thinking propõe: _sair da mesa, relacionar-se com pessoas e experimentar soluções_.
 
-### 01.02. [Labs nas artes e na cultura - o Medialab Prado](medialab-prado)
+===
 
-[![Medialab Prado](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/static_page/image/MEDIALAB%20PRADO.png?itok=iMsA-K_1)](medialab-prado)
+## Design Thinking para Educadores
 
-Um dos espaços mais importantes no cenário internacional dos laboratórios de cultura e inovação é o Medialab Prado, em Madri (Espanha). Vamos entender um pouco mais sobre sua história e o que se desenvolve por lá.
+Design Thinking para Educadores é uma publicação que explora a utilização do design thinking em projetos educacionais.
 
-[>> Acesse](medialab-prado)
+"O material DT para Educadores, composto por um livro base e um caderno de atividades, mostra como utilizar a abordagem do DT a partir de desafios cotidianos que os educadores enfrentam. Pode ser um desafio de sala de aula, ou do grupo de professores ou da escola com a comunidade do entorno. O importante é ter sempre foco nas pessoas envolvidas no processo, e refletir sobre o que pode agregar valor à vida delas."
 
----
+https://www.youtube.com/watch?v=ucqyg0w_k40
 
-### 01.03. [Medialab Prado - Modos de Fazer](modos-de-fazer)
 
-[![Modos de Fazer](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/space/image/Inteligencia%20colectiva.jpg?itok=7sFM3-q8)](modos-de-fazer)
+<p>Os capítulos do livro podem ser acessados diretamente <a href="https://www.dtparaeducadores.org.br/site/download-de-capitulos/" target="_blank">pelo site</a>:</p>
+<ul>
+    <li><a href="https://www.dropbox.com/sh/hgnb8w3kbz1nhef/AADpjKR6VbSwi3pzplU8Jtlfa/DT_Livro_Cap01_Descoberta_024a037.pdf" target="_blank">Descoberta</a></li>
+    <li><a href="https://www.dropbox.com/sh/hgnb8w3kbz1nhef/AABnC2iphdeLfR_kJ49zhZVua/DT_Livro_Cap02_Interpretacao_038a047.pdf">Interpretação</a></li>
+    <li><a href="https://www.dropbox.com/sh/hgnb8w3kbz1nhef/AABnC2iphdeLfR_kJ49zhZVua/DT_Livro_Cap02_Interpretacao_038a047.pdf">Ideação</a></li>
+    <li><a href="https://www.dropbox.com/sh/hgnb8w3kbz1nhef/AACvoTnnTJFUoP1q2vtVPIwXa/DT_Livro_Cap04_Experimentacao_056a065.pdf">Experimentação</a></li>
+    <li><a href="https://www.dropbox.com/sh/hgnb8w3kbz1nhef/AAB8cfxYKp6t2n_W4AM3mzP2a/DT_Livro_Cap05_Evolucao_066a074.pdf">Evolução</a><br></li>
+</ul>
 
-Princípios do Medialab Prado.
+===
 
-[>> Acesse](modos-de-fazer)
 
----
 
-### 01.04. Vídeo: [La mediación cultural en Medialab Prado](mediacion-cultural)
-
-[![mediacion cultural](mediacion-cultural/thumbnail.png)](mediacion-cultural)
-
-Assista a este vídeo no qual a equipe do Medialab Prado conta um pouco sobre os processos de mediação cultural.
-
-[>> Acesse](mediacion-cultural)
-
----
-
-### 01.05. Referências: [Labs no Brasil e no mundo](labs-brasil-mundo)
-
-[![Labs no Brasil e no mundo](https://cursos.tropixel.org/images/f/c/a/0/d/fca0de6b5d8ddd18f01cb4482ed4c5f47965672c-tiago-aleixo-1gphwkqkrt0-unsplash.jpeg)](labs-brasil-mundo)
-
-Algumas iniciativas brasileiras inseridas no contexto dos laboratórios experimentais de cultura e tecnologia, e outras referências internacionais.
-
-[>> Acesse](labs-brasil-mundo)
-
----
-
-### 01.06. Conversa na rede: [Laboratórios na sua cidade](labs-sua-cidade)
-
-[![Labs na sua cidade](https://cursos.tropixel.org/images/5/5/b/b/b/55bbb7ad087ec84421306e16f0991ea3ca1e8e57-ckturistando-gita965k380-unsplash.jpeg)](labs-sua-cidade)
-
-Com base nos conteúdos expostos nesta seção, vamos conversar sobre o que seria um laboratório experimental no contexto da cidade em que você vive, estuda ou trabalha.
-
-[>> Acesse](labs-sua-cidade)
+PDF completo https://neos-agil.moodlecloud.com/pluginfile.php/74/mod_resource/content/2/DT_Livro_Cap01_Descoberta_024a037.pdf
