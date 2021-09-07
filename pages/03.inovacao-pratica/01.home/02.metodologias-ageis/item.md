@@ -1,5 +1,5 @@
 ---
-title: '04 - Metodologias ágeus'
+title: '04 - Metodologias ágeis'
 published: true
 hide_page_title: false
 show_sidebar: true
