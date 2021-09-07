@@ -1,6 +1,6 @@
 ---
 title: 'Inovação na Prática'
-subsite_list_description: 'Seleção de conteúdo educacional para incentivar o desenvolvimento de inovação em projetos colaborativos.'
+subsite_list_description: 'Seleção de conteúdo educacional para promover inovação em projetos colaborativos.'
 hide_from_subsite_list: false
 subsite_home: home
 published: false

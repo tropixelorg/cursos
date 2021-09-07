@@ -11,7 +11,7 @@ content:
     limit: 7
     order:
         by: default
-        dir: desc
+        dir: asc
     pagination: 'true'
 hero_scroll: false
 hide_post_summary: true
@@ -28,4 +28,3 @@ feed:
     description: 'Curso de conceitos sobre inovação cidadã'
     limit: 10
 ---
-
