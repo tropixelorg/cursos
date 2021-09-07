@@ -1,17 +1,24 @@
 ---
-title: Programa
+title: Programa deste curso
 published: true
 ---
 
-## [01. Laboratórios](../home/laboratorios)
+## [01. Sobre Inovação](../home/sobre-inovacao)
 
-Laboratórios como espaços de articulação em torno da ideia de inovação cidadã. Como se estruturam, quais seus significados e implicações.
+Inovação e criatividade ao alcance de todas as pessoas.
 
-## [02. Construção do comum](../home/construcao-do-comum)
+## [02. Inovação Enxuta](../home/inovacao-enxuta)
 
-A inovação cidadã baseia-se amplamente em torno da construção do comum - aquilo que é coletivo, vai além da soma de diversos particulares mas também não é propriamente público. Vamos nos aprofundar um pouco neste assunto fascinante e tentar entender quais inspirações ele pode trazer para nossos projetos.
+Introdução à ideia de "lean startup" (startup enxuta).
 
-## [03. Inovação Cidadã](../home/inovacao-cidada)
+## [03. Design Thinking](../home/design-thinking)
 
-De que forma as práticas criativas colaborativas surgidas no entorno dos laboratórios experimentais podem ser aplicadas a questões sociais em comunidades e cidades? Vamos conversar um pouco sobre o desenvolvimento da ideia de inovação cidadã, e alguns de seus desdobramentos.
+Aplicando o pensamento de design para identificar questões a serem enfrentadas, e caminhos viáveis.
 
+## [04. Metodologias Ágeis](../home/metodologias-ageis)
+
+Como desenvolver projetos dinâmicos e adaptáveis.
+
+## [05. Ferramentas](../home/ferramentas)
+
+Ferramentas concretas para implementação de projetos de inovação.

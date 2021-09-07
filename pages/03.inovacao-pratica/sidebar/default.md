@@ -7,7 +7,7 @@ cache_enable: false
 
 ## Inovação na Prática
 
-Existem dezenas de metodologias que são usadas para incentivar a produção inovadora e colaborativa em contextos diversos. Este curso mostra algumas das mais conhecidas.
+Existem dezenas de metodologias para incentivar a produção inovadora e colaborativa em contextos diversos. Este curso mostra algumas das mais conhecidas.
 
 Saiba mais sobre o curso [aqui](https://cursos.tropixel.org/inovacao-pratica/sobre).
 

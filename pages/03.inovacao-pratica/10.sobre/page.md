@@ -10,7 +10,7 @@ hide_git_sync_repo_link: false
 
 ## Descrição deste curso
 
-Existem dezenas de metodologias que são usadas para incentivar a produção inovadora e colaborativa em contextos diversos. Optamos por mostrar apenas algumas das mais conhecidas, sempre atentos ao fato de que não existe solução pronta. O ideal é entender como essas ideias são aplicadas, e então criar a resposta mais adequada para nosso contexto específico.
+Existem dezenas de metodologias para incentivar a produção inovadora e colaborativa em contextos diversos. Optamos por mostrar apenas algumas das mais conhecidas, sempre atentos ao fato de que não existe solução pronta. O ideal é entender como essas ideias são aplicadas, e então criar a resposta mais adequada para nosso contexto específico.
 
 Este material foi criado originalmente para a Secretaria de Cultura de Santo André a partir de conversas, visitas, entrevistas e dinâmicas realizadas com a equipe ao longo do ano de 2019. A versão deste site foi levemente editada, e publicada em Agosto de 2020.
 
