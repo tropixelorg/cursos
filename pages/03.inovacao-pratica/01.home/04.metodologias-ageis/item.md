@@ -12,3 +12,11 @@ continue_link: true
 ---
 
 SCRUM
+
+https://www.agileinnonprofits.com/
+
+https://www.scrumalliance.org/active-certification-benefits/nonprofit-value
+
+https://resources.foundant.com/blog/a-success-story-founding-a-nonprofit-using-scrum-framework
+
+https://www.agileinnonprofits.com/getting-started-with-scrum-in-nonprofits/
